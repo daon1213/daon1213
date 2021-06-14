@@ -16,6 +16,7 @@
 <h3 align="center">•••</h3>
 <img alt="Discord" src="https://img.shields.io/badge/다온2635-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;
+  <p align="center" align="right">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daon1213&&show_icons=true&theme=default)
 </p>
