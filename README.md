@@ -19,6 +19,7 @@
   &nbsp;&nbsp;&nbsp;
   <p align="center" align="right">
   
+    <p align="center" align="right">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daon1213&&show_icons=true&theme=default)
 </p>
 
