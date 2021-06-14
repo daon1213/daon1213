@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/python-B0F7FF?style=flat-square&logo=python&logoColor=white"/>
 </p>
 <h3 align="center">•••</h3>
+<p align="center" align="right">
 <img alt="Discord" src="https://img.shields.io/badge/다온2635-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;
   <p align="center" align="right">
