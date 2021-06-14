@@ -1,7 +1,6 @@
-### Hi there 👋
-```
-My name is Daon
-```
+<h1 align="center"> 📋 My Introduce</h1>
+<h3 align="center">  👋🏻 Hi, my name is Jeong Da on.
+<h3 align="center">  🏫 I'm a student in Gwangju Software Meister highschool.
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jeongdaon&fontSize=90)
 
