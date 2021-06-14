@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Android Studio-5FEE9E?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Android-5CE75C?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-57E9E1?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/c-96D5D7?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/python-B0F7FF?style=flat-square&logo=python&logoColor=white"/>
   <h3 align="center">•••</h3>
-  <img alt="Discord" src="https://img.shields.io/badge/다온#2635-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white%22/%3E
+  <img alt="Discord" src="https://img.shields.io/badge/다온2635-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white%22/%3E
   &nbsp;&nbsp;&nbsp; <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daon1213&&show_icons=true&theme=default)
