@@ -22,7 +22,7 @@
   <p align="center" align="right">
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daon1213&&show_icons=true&theme=default)
-    ![daon1213's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daon1213&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    ![daon1213's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daon1213&layout=compact)
 
 
 <!--
