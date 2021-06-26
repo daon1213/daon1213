@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jeongdaon&fontSize=90)
 
 <h1 align="center"> 📋 My Introduce</h1>
-<h3 align="center">  👋🏻 Hi, my name is Jeong a on.
+<h3 align="center">  👋🏻 Hi, my name is Jeong da on.
 <h3 align="center">  🏫 I'm a student in Gwangju Software Meister highschool.
 
   
