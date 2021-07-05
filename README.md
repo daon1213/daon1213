@@ -23,6 +23,7 @@
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daon1213&&show_icons=true&theme=default)
     ![daon1213's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daon1213&layout=compact)
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaon1213&count_bg=%23FF9BC7&title_bg=%23878787&icon=&icon_color=%23CBCBCB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
