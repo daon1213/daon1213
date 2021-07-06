@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Kotlin-57E9E1?style=flat-square&logo=Kotlin&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c-96D5D7?style=flat-square&logo=c&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/python-B0F7FF?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-DB7093?style=flat-square&logo=java&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-E26C5D.svg?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 <h3 align="center">•••</h3>
