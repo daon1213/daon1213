@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jeongdaon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jeongdaon&fontSize=70)
 
 <h1 align="center"> 📋 My Introduce</h1>
 <h3 align="center">  👋🏻 Hi, my name is Jeong da on.
