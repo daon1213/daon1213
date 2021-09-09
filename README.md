@@ -24,6 +24,7 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/daon__1213/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <a href="https://www.notion.so/Fxxking-Gsm-Life-bf14018906e543a39f850c8eb49b5281"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Notion&logo=Notion&style=social&url=https://www.notion.so/Fxxking-Gsm-Life-bf14018906e543a39f850c8eb49b5281"></a>
     <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daon1213"/></a>
   &nbsp;&nbsp;&nbsp;
   <p align="center" align="right">
