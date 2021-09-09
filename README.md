@@ -20,6 +20,11 @@
 <h3 align="center">•••</h3>
 <p align="center" align="right">
 <img alt="Discord" src="https://img.shields.io/badge/다온2635-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
+  <a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/daon__1213/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daon1213"/></a>
   &nbsp;&nbsp;&nbsp;
   <p align="center" align="right">
     
