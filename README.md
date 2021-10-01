@@ -18,7 +18,11 @@
   <img src="https://img.shields.io/badge/CSS3-00887A?style=flat-square&logo=CSS3&logoColor=white"/> 
 </p>
 <h3 align="center">•••</h3>
-<p align="center" align="right">
+<h3 align="center"> :pushpin: sub skil </h3>
+ <p align="center">
+
+<img src="https://img.shields.io/badge/figma-7B68EE?style=flat-square&logo=figma&logoColor=white"/>                           
+<p align="center" align="right">  
 <img alt="Discord" src="https://img.shields.io/badge/다온2635-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
   <a href="https://www.instagram.com/daon__1213/">
     <img 
