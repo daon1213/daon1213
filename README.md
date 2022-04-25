@@ -5,7 +5,7 @@
 <h3 align="center">  🏫 I'm a student in Gwangju Software Meister highschool.
 
   
-  <h3 align="center">✨ Language skil ✨ </h3>
+  <h3 align="center">✨ Language skill ✨ </h3>
  <p align="center">
 
 <img src="https://img.shields.io/badge/Android Studio-5FEE9E?style=flat-square&logo=AndroidStudio&logoColor=white"/> 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/java-DB7093?style=flat-square&logo=java&logoColor=white"/>
 </p>
 <h3 align="center">•••</h3>
-<h3 align="center"> :pushpin: sub skil </h3>
+<h3 align="center"> :pushpin: sub skill </h3>
  <p align="center">
 
 <img src="https://img.shields.io/badge/figma-7B68EE?style=flat-square&logo=figma&logoColor=white"/>                           
