@@ -18,13 +18,17 @@
  <p align="center">
 
 <img src="https://img.shields.io/badge/figma-7B68EE?style=flat-square&logo=figma&logoColor=white"/>                           
-<p align="center" align="right">  
+<p align="center" align="right">
+  
+<h3 align="center"> 💡 My Info </h3>
+ <p align="center">  
+   
 <img alt="Discord" src="https://img.shields.io/badge/다온2635-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
   <a href="https://www.instagram.com/daon__1213/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/daon__1213/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <a href="https://lilac-cougar-a49.notion.site/Gsm-Life-bf14018906e543a39f850c8eb49b5281"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Notion&logo=Notion&style=social&url=https://www.notion.so/Fxxking-Gsm-Life-bf14018906e543a39f850c8eb49b5281"></a>
+    <a href="https://lilac-cougar-a49.notion.site/Portfolio-4f5b61541d924a0ba66638bc6dd64f00"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Notion&logo=Notion&style=social&url=https://lilac-cougar-a49.notion.site/Portfolio-4f5b61541d924a0ba66638bc6dd64f00"></a>
     <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daon1213"/></a>
   &nbsp;&nbsp;&nbsp;
   <p align="center" align="right">
