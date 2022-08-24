@@ -14,11 +14,6 @@
 <img src="https://img.shields.io/badge/java-DB7093?style=flat-square&logo=java&logoColor=white"/>
 </p>
 <h3 align="center">•••</h3>
-<h3 align="center"> :pushpin: sub skill </h3>
- <p align="center">
-
-<img src="https://img.shields.io/badge/figma-7B68EE?style=flat-square&logo=figma&logoColor=white"/>                           
-<p align="center" align="right">
   
 <h3 align="center"> 💡 My Info </h3>
  <p align="center">  
