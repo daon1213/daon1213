@@ -39,7 +39,12 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/daon__1213/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     <a href="https://lilac-cougar-a49.notion.site/Portfolio-4f5b61541d924a0ba66638bc6dd64f00"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Notion&logo=Notion&style=social&url=https://lilac-cougar-a49.notion.site/Portfolio-4f5b61541d924a0ba66638bc6dd64f00"></a>
+      <a href="https://velog.io/@daon1213">
+    <img 
+        src="http://img.shields.io/badge/-Velog-black?style=flat&logo=velog&link=https://velog.io/@daon1213/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <p align="center" align="right">
+      
 
 <!--
 **daon1213/daon1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
