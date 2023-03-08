@@ -25,10 +25,6 @@
   <img src="https://img.shields.io/badge/Kotlin-57E9E1?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-DB7093?style=flat-square&logo=ava&logoColor=white"/>
 </p>
-      
-<p align="center">
- <img src="https://thumbs.gfycat.com/ScaredPowerlessBullmastiff-size_restricted.gif"/>
-</p>
    
 <h3 align="center"> 💡 My Info </h3>
  <p align="center">  
