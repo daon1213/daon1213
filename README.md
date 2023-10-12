@@ -9,4 +9,4 @@
 - Email: diaeiyo1213@naver.com
 - [Surfit](https://my.surfit.io/w/1517005931)🏄🏻
 - [Portfolio](https://bejewled-cheek-cf3.notion.site/daf6505043f947ada70a00941ecb777f)
-- [Velog](https://velog.io/@daon1213)
+- [Tistory](https://ddevws.tistory.com/)
