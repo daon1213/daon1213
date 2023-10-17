@@ -6,7 +6,7 @@
 ## About
 
 - Skills: Kotlin, Java
-- Email: diaeiyo1213@naver.com
+- Email: dddd1213@avatye.com
 - [Surfit](https://my.surfit.io/w/1517005931)🏄🏻
 - [Portfolio](https://bejewled-cheek-cf3.notion.site/daf6505043f947ada70a00941ecb777f)
 - [Tistory](https://ddevws.tistory.com/)
